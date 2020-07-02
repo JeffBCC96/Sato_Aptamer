@@ -1,5 +1,6 @@
 ## Sato-Aptamer Design
 Author: Rong Ma
+
 This tool can help you to design several Sato aptamers which could perfectly bind to the RNA at specific sites and form the desired structures. The program applies some other tools such as SPARCS, NUPACK to analyze the secondary structure of the RNA you provided and locate the best section to bind to. Meanwhile, the Aptamers will be checked in terms of the complex structures with RNA and their stabilities in order to select the best ones.
 
 
